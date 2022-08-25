@@ -3,7 +3,7 @@
 * {
   margin: 0;
   padding: 0;
-  box-sizing: border-box;   
+  box-sizing: border-box;
 }
 
 .clearfix::after {
@@ -18,8 +18,8 @@ body {
   font-size: 16px;
   position: relative;
   height: 100vh;
-  font-weight: 400; 
-  
+  font-weight: 400;
+
 }
 
 .right {
@@ -135,6 +135,7 @@ h2 {
 .item:first-child {
   border-top: 1px solid #e7e7e7;
 }
+
 .item:nth-child(even) {
   background-color: #f7f7f7;
 }
@@ -166,7 +167,7 @@ h2 {
 }
 
 .item__done--btn--done {
-  color: #808080; 
+  color: #808080;
 }
 
 .item__done--btn:focus {
